@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Franco Treboux**
 
-**Fullstack JavaScript Developer** with strong experience in **React.js**, **Next.js**, and modern web technologies.  
+**Fullstack Developer** with experience in **React.js**, **Next.js**, and modern web technologies.  
 Focused on building scalable, efficient, and user‑centered applications.
 
 ---
@@ -60,6 +60,6 @@ Focused on building scalable, efficient, and user‑centered applications.
 
 ## 📫 Contact
 
-📧 [tuemail@gmail.com](mailto:francotrxdev@gmail.com)  
+📧 [francotrxdev@gmail.com](mailto:francotrxdev@gmail.com)  
 🌐 [Portfolio Website](https://portfolio-gilt-six-34.vercel.app/)  
 💼 [LinkedIn](https://www.linkedin.com/in/franco-treboux/)
