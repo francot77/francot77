@@ -41,10 +41,12 @@ Focused on building scalable, efficient, and user‑centered applications.
   Backend development using Python, Linux, Git, and DevOps principles.  
 
 <p align="center">
+  <a href="https://www.boot.dev/u/skanus">    
   <img src="https://api.boot.dev/v1/users/public/45bf484b-2d2d-4621-ab56-8b1e662d31c8/thumbnail"
        width="350"
        alt="Boot.dev Progress"
        style="border-radius: 12px; box-shadow: 0 0 8px rgba(0,0,0,0.2);">
+  </a>
 </p>
 
 ---
