@@ -49,7 +49,7 @@ Focused on building scalable, efficient, and user‑centered applications.
       Backend development using Python, Linux, Git, and DevOps principles.
     </td>
     <td>
-      <a href="https://www.boot.dev/u/skanus" target="_blank">
+      <a href="https://www.boot.dev/u/skanus">
         <img src="https://api.boot.dev/v1/users/public/45bf484b-2d2d-4621-ab56-8b1e662d31c8/thumbnail"
              width="350"
              alt="Boot.dev Progress">
@@ -62,7 +62,7 @@ Focused on building scalable, efficient, and user‑centered applications.
       Responsive Web Design Certification.
     </td>
     <td>
-      <a href="https://www.freecodecamp.org/certification/fcc5d6192d4-a91e-49bf-a7ec-6742f0885395/responsive-web-design" target="_blank">
+      <a href="https://www.freecodecamp.org/certification/fcc5d6192d4-a91e-49bf-a7ec-6742f0885395/responsive-web-design">
         <img src="https://raw.githubusercontent.com/francot77/certs/refs/heads/main/FreeCodeCamp/responsivewebdesignv8.webp?token=GHSAT0AAAAAADOQFIXNO27HHHDJTYORVO2G2IXWOMA"
              width="350"
              alt="FCC Certification">
