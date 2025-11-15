@@ -63,7 +63,7 @@ Focused on building scalable, efficient, and user‑centered applications.
     </td>
     <td>
       <a href="https://www.freecodecamp.org/certification/fcc5d6192d4-a91e-49bf-a7ec-6742f0885395/responsive-web-design">
-        <img src="https://raw.githubusercontent.com/francot77/certs/refs/heads/main/FreeCodeCamp/responsivewebdesignv8.webp?token=GHSAT0AAAAAADOQFIXNO27HHHDJTYORVO2G2IXWOMA"
+        <img src="https://github.com/francot77/certs/blob/main/FreeCodeCamp/responsivewebdesignv8.webp?raw=true"
              width="350"
              alt="FCC Certification">
       </a>
