@@ -36,7 +36,15 @@ Focused on building scalable, efficient, and user‑centered applications.
       <strong>CS50x – Introduction to Computer Science (Harvard University)</strong><br>
      Focus on algorithms, data structures, and low‑level problem solving.
     </td>
+     <td>
+      <a href="https://certificates.cs50.io/eddd9fba-df4c-4ed4-a6d1-8eac880d76ba.png?size=letter">
+        <img src="https://certificates.cs50.io/eddd9fba-df4c-4ed4-a6d1-8eac880d76ba.png?size=letter"
+             width="350"
+             alt="cs50Cert">
+      </a>
+    </td>
   </tr>
+  
   <tr>
     <td>
       <strong>Diploma in Windows/Linux Server Administration</strong><br>
