@@ -69,20 +69,48 @@ I prioritize **correctness, maintainability, and clarity** over quick hacks or f
 
 ---
 
-## 🎓 Education & Learning
-
-**CS50x – Introduction to Computer Science (Harvard University)**  
-Algorithms, data structures, memory, and low-level problem solving.  
-[Certificate](https://certificates.cs50.io/eddd9fba-df4c-4ed4-a6d1-8eac880d76ba.png)
-
-**Boot.dev – Backend Track**  
-Backend development with Python, Linux, Git, and DevOps principles.  
-[Progress Profile](https://www.boot.dev/u/skanus)
-
-**FreeCodeCamp**  
-Responsive Web Design Certification.  
-[Certificate](https://www.freecodecamp.org/certification/fcc5d6192d4-a91e-49bf-a7ec-6742f0885395/responsive-web-design)
-
+## 🎓 Education & Certifications  
+ <table>
+    <tr>
+    <td>
+      <strong>CS50x – Introduction to Computer Science (Harvard University)</strong><br>
+     Focus on algorithms, data structures, and low‑level problem solving.
+    </td>
+     <td>
+      <a href="https://certificates.cs50.io/eddd9fba-df4c-4ed4-a6d1-8eac880d76ba.png?size=letter">
+        <img src="https://certificates.cs50.io/eddd9fba-df4c-4ed4-a6d1-8eac880d76ba.png?size=letter"
+             width="350"
+             alt="cs50Cert">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Boot.dev Backend Track</strong><br>
+      Backend development using Python, Linux, Git, and DevOps principles.
+    </td>
+    <td>
+      <a href="https://www.boot.dev/u/skanus">
+        <img src="https://api.boot.dev/v1/users/public/45bf484b-2d2d-4621-ab56-8b1e662d31c8/thumbnail"
+             width="350"
+             alt="Boot.dev Progress">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>Free Code Camp</strong><br>
+      Responsive Web Design Certification.
+    </td>
+    <td>
+      <a href="https://www.freecodecamp.org/certification/fcc5d6192d4-a91e-49bf-a7ec-6742f0885395/responsive-web-design">
+        <img src="https://github.com/francot77/certs/blob/main/FreeCodeCamp/responsivewebdesignv8.webp?raw=true"
+             width="350"
+             alt="FCC Certification">
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📫 Contact
