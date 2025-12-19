@@ -12,7 +12,7 @@ Focused on building scalable, efficient, and user‑centered applications.
 - Skilled in both **frontend** and **backend** development, from UI design to server logic.  
 - Experienced with **cloud deployment**, **authentication systems**, and **data visualization**.  
 - Strong foundation in **algorithms, data structures**, and **systems administration**.  
-- Continuous learner currently enrolled in **CS50x (Harvard University)** and **Boot.dev Backend Track**.
+- Continuous learner currently enrolled in **Boot.dev Backend Track** and daily leet code exercises.
 
 ---
 
