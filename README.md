@@ -1,41 +1,34 @@
 # 👋 Hi, I'm Franco Treboux
 
-**Fullstack Web Developer** focused on building **production-ready applications** with clean architecture, solid fundamentals, and real-world constraints in mind.
+Fullstack Engineer building event-driven systems and production-grade web products.
 
-I work mainly with **React / Next.js** on the frontend and **Node.js** on the backend, and I’m comfortable reasoning about **performance, data flow, and system design**, not just UI.
-
----
-
-## 🧠 About Me
-
-- Fullstack developer with hands-on experience building and deploying real applications.
-- Strong foundations in **computer science fundamentals** (algorithms, data structures, and problem solving).
-- Experience working across the stack: frontend, backend, authentication, databases, and deployment.
-- Background in **Linux and server administration**, which informs how I design and deploy systems.
-- Currently deepening backend and systems knowledge through **CS50x** and **Boot.dev Backend Track**.
-
-I prioritize **correctness, maintainability, and clarity** over quick hacks or flashy demos.
+I design and ship real systems — not just interfaces.
+My focus: data flow, system boundaries, and scalable architectures under real-world constraints.
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Current Focus
 
-> *(Detailed case studies coming soon)*
+🔗 Fezlink — Distributed link analytics platform
 
-### 🗓️ Appointment Booking SaaS  
-**Fullstack SaaS for managing appointments and schedules**
+A production-ready URL platform built around a decoupled, event-driven architecture:
 
-- Built with **Next.js**, **Node.js**, and a modern authentication system.
-- Focus on real-world constraints: user roles, availability logic, and persistence.
-- Designed for scalability and future feature growth.
+Public frontend in Next.js
 
-### 🔗 Fezlink – Link Shortener & Analytics  
-**URL shortener with analytics and filtering**
+Dashboard in React (Vite)
 
-- Backend-driven metrics (clicks, countries, time ranges).
-- Authentication, protected dashboards, and data visualization.
-- Emphasis on clean data modeling and API design.
+API + ingestion layer in Node.js
 
+Event queue powered by RabbitMQ
+
+High-performance workers written in Rust
+
+MongoDB for data persistence
+
+Batched ingestion and async processing for scalable metrics
+
+Designed to separate ingestion, processing, and visualization — allowing independent scaling and clean system boundaries.
+**Fezlink:** https://fezlink.com
 ---
 
 ## 🧰 Technical Skills
@@ -64,9 +57,7 @@ I prioritize **correctness, maintainability, and clarity** over quick hacks or f
 **Other**
 - Git & GitHub
 - Bash
-- PHP (working knowledge)
 - Python (fundamentals)
-
 ---
 
 ## 🎓 Education & Certifications  
