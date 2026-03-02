@@ -28,6 +28,7 @@ MongoDB for data persistence
 Batched ingestion and async processing for scalable metrics
 
 Designed to separate ingestion, processing, and visualization — allowing independent scaling and clean system boundaries.
+
 **Fezlink:** https://fezlink.com
 ---
 
