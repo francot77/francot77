@@ -50,12 +50,12 @@ Designed to separate ingestion, processing, and visualization — allowing indep
 - Linux
 - Docker
 - Vercel
-- AWS (fundamentals)
+- AWS EC2
 
 **Other**
 - Git & GitHub
 - Bash
-- Python (fundamentals)
+- Python
 ---
 
 ## 🎓 Education & Certifications  
