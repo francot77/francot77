@@ -8,7 +8,7 @@ Full Stack Developer focused on scalable web applications and distributed system
 
 🔗 Fezlink — Distributed link analytics platform
 
-A production-ready URL platform built around a decoupled, event-driven architecture:
+A distributed link analytics platform built around async ingestion and event-driven processing.
 
 Public frontend in Next.js
 
