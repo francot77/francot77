@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Franco Treboux
 
-Fullstack Engineer building event-driven systems and production-grade web products.
-
-I design and ship real systems — not just interfaces.
-My focus: data flow, system boundaries, and scalable architectures under real-world constraints.
+Fullstack Engineer building event-driven systems and web products.
 
 ---
 
@@ -86,19 +83,6 @@ Designed to separate ingestion, processing, and visualization — allowing indep
         <img src="https://api.boot.dev/v1/users/public/45bf484b-2d2d-4621-ab56-8b1e662d31c8/thumbnail"
              width="350"
              alt="Boot.dev Progress">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>Free Code Camp</strong><br>
-      Responsive Web Design Certification.
-    </td>
-    <td>
-      <a href="https://www.freecodecamp.org/certification/fcc5d6192d4-a91e-49bf-a7ec-6742f0885395/responsive-web-design">
-        <img src="https://github.com/francot77/certs/blob/main/FreeCodeCamp/responsivewebdesignv8.webp?raw=true"
-             width="350"
-             alt="FCC Certification">
       </a>
     </td>
   </tr>
