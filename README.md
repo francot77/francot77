@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Franco Treboux
 
-Fullstack Developer building event-driven systems and web products.
+Full Stack Developer focused on scalable web applications and distributed systems.
 
 ---
 
