@@ -28,31 +28,30 @@ Designed to separate ingestion, processing, and visualization — allowing indep
 
 **Fezlink:** https://fezlink.com
 ---
-
 ## 🧰 Technical Skills
 
-**Frontend**
-- React, Next.js
-- Tailwind CSS
-- HTML5, CSS3, JavaScript (ES6+)
+### Frontend
+- React
+- Next.js
+- TypeScript
+- TailwindCSS
 
-**Backend**
-- Node.js, Express
-- RESTful APIs
-- Authentication & authorization flows
+### Backend
+- Node.js
+- Express
+- REST APIs
+- Authentication & Authorization
 
-**Databases**
+### Infrastructure & Systems
+- RabbitMQ
 - MongoDB
 - SQL
-- Supabase / Firebase
-
-**DevOps & Systems**
-- Linux
 - Docker
-- Vercel
+- Linux
 - AWS EC2
+- Vercel
 
-**Other**
+### Tools
 - Git & GitHub
 - Bash
 - Python
