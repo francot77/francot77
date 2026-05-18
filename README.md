@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Franco Treboux
 
-Fullstack Engineer building event-driven systems and web products.
+Fullstack Developer building event-driven systems and web products.
 
 ---
 
